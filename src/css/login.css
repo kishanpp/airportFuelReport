@@ -1,0 +1,18 @@
+.form-signin {
+    width: 330px;
+    background-color: white;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 10%;
+
+  }
+.form {
+  background-image: url('../images/hillsboro-aviation-jet.jpg');
+    background-position: center;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+}
+html, body {
+  height: 100%;
+}
