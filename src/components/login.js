@@ -80,7 +80,7 @@ function Login (props){
               {
                 error && error.length &&
                   <span className="text-uppercase">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAABoElEQVQ4jd2Tz0uUURSGn3O/X2omthsCEwo3SZagRdPCrSRtbR2R5NJ1IrZp0SIIEhwhcN02JGsjtHAVI276C/oDMiXBO963RTP6Od+oM7iJzupyznuf+557z4X/IrRBrzbobUfrzoVt0i2fVeWzqjbpvjAw7HXNA0OIobDb9eI8vZ3pbj0dlrMqIq1naiaN2aTf7tihFnFyVsnBAGKZVbR4+r7TWy5nM4gHAE/fj/Fk5U6jco9y8qwjoNYulSR71XC2u+/4fRAd12Wv9aXnatvAkBy+hXCl3iZJ5EmjWl7SF0LtTVtArWeTpjCdz8XmSSKfE4HBY33OHp0J1Ed6ZFpqFiXOkzaAyumld80DfwIY0vQlcL0ZODq4w+2BXydg9bgWDtKFfOJoDvUpHZHjG5A07/r6/TKSmLi5VyCCaha4aw/91pHDvzPHcitYCMbcaom51RKHoQADiOWo6AMRQAxAOZtFul88HJyJ5ZkfSCJyBVhjOU5f8hz8UgwQxEjhD+b04zf2WxdzmiBuQf0OJYw1+gsOO4kpfpq1eLZ/Lv4A0+aZ4wYyFLEAAAAASUVORK5CYII="/>
+                    <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAABoElEQVQ4jd2Tz0uUURSGn3O/X2omthsCEwo3SZagRdPCrSRtbR2R5NJ1IrZp0SIIEhwhcN02JGsjtHAVI276C/oDMiXBO963RTP6Od+oM7iJzupyznuf+557z4X/IrRBrzbobUfrzoVt0i2fVeWzqjbpvjAw7HXNA0OIobDb9eI8vZ3pbj0dlrMqIq1naiaN2aTf7tihFnFyVsnBAGKZVbR4+r7TWy5nM4gHAE/fj/Fk5U6jco9y8qwjoNYulSR71XC2u+/4fRAd12Wv9aXnatvAkBy+hXCl3iZJ5EmjWl7SF0LtTVtArWeTpjCdz8XmSSKfE4HBY33OHp0J1Ed6ZFpqFiXOkzaAyumld80DfwIY0vQlcL0ZODq4w+2BXydg9bgWDtKFfOJoDvUpHZHjG5A07/r6/TKSmLi5VyCCaha4aw/91pHDvzPHcitYCMbcaom51RKHoQADiOWo6AMRQAxAOZtFul88HJyJ5ZkfSCJyBVhjOU5f8hz8UgwQxEjhD+b04zf2WxdzmiBuQf0OJYw1+gsOO4kpfpq1eLZ/Lv4A0+aZ4wYyFLEAAAAASUVORK5CYII="/>
                     {error}
                   </span>
               }
