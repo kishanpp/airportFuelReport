@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/airportFuelReport/static/css/main.a9efee7e.css",
+    "main.js": "/airportFuelReport/static/js/main.2d31639a.js",
+    "static/media/glyphicons-halflings-regular.svg": "/airportFuelReport/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/hillsboro-aviation-jet.jpg": "/airportFuelReport/static/media/hillsboro-aviation-jet.c66f323174dcdd55330e.jpg",
+    "static/media/glyphicons-halflings-regular.ttf": "/airportFuelReport/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/airportFuelReport/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/airportFuelReport/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/airportFuelReport/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/airportFuelReport/index.html",
+    "static/media/arrow_left.svg": "/airportFuelReport/static/media/arrow_left.2b063d13b9ef574cd7d1.svg",
+    "static/media/arrow_right.svg": "/airportFuelReport/static/media/arrow_right.0897f985cc5c7537b31d.svg",
+    "main.a9efee7e.css.map": "/airportFuelReport/static/css/main.a9efee7e.css.map",
+    "main.2d31639a.js.map": "/airportFuelReport/static/js/main.2d31639a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9efee7e.css",
+    "static/js/main.2d31639a.js"
+  ]
+}
